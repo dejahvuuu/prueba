@@ -1,0 +1,60 @@
+{
+    "routes": {
+        "A01": [
+            "Torre de Cali",
+            "Capri",
+            "San Bosco",
+            "Universidades",
+            "Flora Industrial"
+        ],
+        "A02": [
+            "Ca\u00f1averalejo",
+            "Plaza de Toros",
+            "Unidad Deportiva"
+        ],
+        "A04": [
+            "Nuevo Latir",
+            "Manzanares",
+            "Andr\u00e9s San\u00edn",
+            "7 de Agosto"
+        ]
+    },
+    "stops": {
+        "Universidades": [
+            "A01"
+        ],
+        "Capri": [
+            "A01"
+        ],
+        "San Bosco": [
+            "A01"
+        ],
+        "Torre de Cali": [
+            "A01"
+        ],
+        "Unidad Deportiva": [
+            "A02"
+        ],
+        "Plaza de Toros": [
+            "A02"
+        ],
+        "Ca\u00f1averalejo": [
+            "A02"
+        ],
+        "Nuevo Latir": [
+            "A04"
+        ],
+        "Andr\u00e9s San\u00edn": [
+            "A04"
+        ],
+        "Manzanares": [
+            "A04"
+        ],
+        "7 de Agosto": [
+            "A04"
+        ],
+        "Flora Industrial": [
+            "A01"
+        ]
+    }
+}

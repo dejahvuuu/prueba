@@ -1,0 +1,10 @@
+{"timestamp": "2025-03-20T10:00:00", "client_id": 12345, "amount": 250.000}
+{"timestamp": "2025-03-20T11:00:00", "client_id": 56789, "amount": 120.000}
+{"timestamp": "2025-03-20T12:30:00", "client_id": 12345, "amount": 200.000}
+{"timestamp": "2025-03-22T13:15:00", "client_id": 67890, "amount": 350.000}
+{"timestamp": "2025-03-20T14:00:00", "client_id": 56789, "amount": 180.000}
+{"timestamp": "2025-03-24T15:45:00", "client_id": 98765, "amount": 300.000}
+{"timestamp": "2025-03-27T16:30:00", "client_id": 12345, "amount": 150.000}
+{"timestamp": "2025-03-25T18:00:00", "client_id": 67890, "amount": 400.000}
+{"timestamp": "2025-03-20T19:20:00", "client_id": 56789, "amount": 220.000}
+{"timestamp": "2025-03-01T21:00:00", "client_id": 67890, "amount": 500.000}
